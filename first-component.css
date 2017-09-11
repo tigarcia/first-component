@@ -1,0 +1,25 @@
+.name {
+  font-size: 3em;
+  text-align: center;
+  margin: .25em;
+}
+.hobbies {
+  font-size: 2em;
+}
+.card {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-conent: center;
+  align-items: center;
+}
+.card img {
+  width: 60%;
+  margin-bottom: 1em;
+}
+.card li {
+  font-size:1.8em;
+}
